@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "737859900865",
+    "project_id": "wasaup-94116",
+    "storage_bucket": "wasaup-94116.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737859900865:android:54eaa56cc37f1100e00b40",
+        "android_client_info": {
+          "package_name": "com.gurprakash.example.watsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737859900865-bqm388io2h5ugnekt17hu2ddigjct1oc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFRnSqSUIq3yAQf3RmvFMZsGsEHbBH5ZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737859900865-bqm388io2h5ugnekt17hu2ddigjct1oc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
